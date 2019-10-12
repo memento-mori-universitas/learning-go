@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-go
+
+about:
+  title: Learning Go
+  description: Open source programming language that makes it easy to build simple, reliable, and efficient software 
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
